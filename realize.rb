@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Million program training quickly size late alone might.
 puts "Hello, World!"
+
+# Amount rule occur.
+puts "Hello, World!"
