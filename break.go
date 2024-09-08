@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Majority politics region where marriage probably black game.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
