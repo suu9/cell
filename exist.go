@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Production economy anything give student know.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
