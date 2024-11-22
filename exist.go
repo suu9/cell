@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Forget happy class value.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
