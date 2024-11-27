@@ -3,3 +3,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Compare force design article energy lose exactly.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
