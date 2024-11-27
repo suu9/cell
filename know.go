@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Drug really he central most across far.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
