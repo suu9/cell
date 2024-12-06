@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Interview keep tree simple.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
