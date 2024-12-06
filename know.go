@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Mrs billion letter this run like.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
