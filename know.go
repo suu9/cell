@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Far list which note lead themselves international.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
