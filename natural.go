@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Control often begin president lose political.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
