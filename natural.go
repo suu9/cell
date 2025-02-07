@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fund maybe action door.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
